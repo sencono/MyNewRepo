@@ -15,5 +15,5 @@ while left <= right:
     else:
         right = middle - 1
 
-if left > right: # open
+if left > right: # co
     print('sample list.'.format(x))
